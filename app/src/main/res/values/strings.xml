@@ -6,4 +6,5 @@
     <string name="contraseña">Contraseña</string>
     <string name="aceptar">ACEPTAR</string>
     <string name="mosOp">MOSTRAR OPCIONES</string>
+    <string name="buscar">Buscar</string>
 </resources>
