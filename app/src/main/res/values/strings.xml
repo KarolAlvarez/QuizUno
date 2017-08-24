@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizUno</string>
+    <string name="DK">2K</string>
+    <string name="cuenta">Crear cuenta</string>
+    <string name="txt_nombre">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="mosOp">MOSTRAR OPCIONES</string>
+</resources>
